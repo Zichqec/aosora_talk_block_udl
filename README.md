@@ -7,7 +7,7 @@ This UDL helps with the problem of apostrophes causing portions of text to be hi
 
 
 ## Recommendation for code highlighting
-For code highlighting in files that contain function blocks, I would recommend Notepad++'s built in JavaScript highlighting, with some additional keywords added. I have some notes in this guide about how you can add your own keywords: https://ukagaka.zichqec.com/guide/notepad_tips_to_improve_your_ghost_dev_experience#syntax_highlighting
+For code highlighting in files that contain function blocks, I would recommend Notepad++'s built in JavaScript highlighting, with some additional keywords added. I have some notes in [this guide](https://ukagaka.zichqec.com/guide/notepad_tips_to_improve_your_ghost_dev_experience#syntax_highlighting) about how you can add your own keywords. 
 
 The following are the keywords I've added for use with Aosora, under INSTRUCTION WORD.
 
