@@ -1,6 +1,9 @@
 # Aosora talk block UDL
 Simple syntax highlighting for Aosora's talk blocks in Notepad++.
 
+![image](https://github.com/user-attachments/assets/4195f25b-79a3-4a78-8bed-8d74f01dd024)
+
+
 **Important: this works best for talk blocks only, and doesn't properly support function blocks and other code.** I think it will work best when used for files primarily made up of talk blocks (aitalk, bootend, etc.).
 
 This UDL helps with the problem of apostrophes causing portions of text to be highlighted awkwardly. It focuses on SakuraScript tags instead, dimming them for you so that you can more easily read the words you've written around the tags. Additionally, it can highlight various keywords and Aosora-specific syntax used in talk blocks.
