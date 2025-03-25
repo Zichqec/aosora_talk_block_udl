@@ -5,6 +5,16 @@ Simple syntax highlighting for Aosora's talk blocks in Notepad++.
 
 This UDL helps with the problem of apostrophes causing portions of text to be highlighted awkwardly. It focuses on SakuraScript tags instead, dimming them for you so that you can more easily read the words you've written around the tags. Additionally, it can highlight various keywords and Aosora-specific syntax used in talk blocks.
 
+One other note: I added a couple of function names to the keywords list that I think may see common use, but that you also may want to customize. They aren't built in names, I just think they're handy and wanted to use it as an example. The following are what I included:
+
+```
+RandomTalk
+BootTalk
+CloseTalk
+```
+
+Feel free to delete or customize these as you wish.
+
 
 ## Recommendation for code highlighting
 For code highlighting in files that contain function blocks, I would recommend Notepad++'s built in JavaScript highlighting, with some additional keywords added. I have some notes in [this guide](https://ukagaka.zichqec.com/guide/notepad_tips_to_improve_your_ghost_dev_experience#syntax_highlighting) about how you can add your own keywords. (The guide currently focuses on YAYA, but the same principles apply, just choose JavaScript instead of C.)
