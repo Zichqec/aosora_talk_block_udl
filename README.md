@@ -29,5 +29,3 @@ talk function word for while if else break continue
 return local const true false try catch finally throw class member
 init new print
 ```
-
-v1.0.0

@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">talk function word for while if else break continue&#x000D;&#x000A;return local const true false try catch finally throw class member&#x000D;&#x000A;init new print</Keywords>
+            <Keywords name="Keywords1">talk function</Keywords>
             <Keywords name="Keywords2">RandomTalk BootTalk CloseTalk</Keywords>
             <Keywords name="Keywords3">On Save.Data. Shiori. Debug. Saori. TalkBuilder. Random. TalkTimer. Time. Reflection.</Keywords>
             <Keywords name="Keywords4">&gt;</Keywords>
